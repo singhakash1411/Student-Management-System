@@ -18,9 +18,6 @@ A simple student record management application built using Java. This version in
 - Java Swing (GUI)
 - File I/O for CSV operations
 
-## 📸 Screenshots
-
-*(Insert GUI screenshots here)*
 
 ## 🚀 Getting Started
 
